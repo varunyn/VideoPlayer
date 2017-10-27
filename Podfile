@@ -6,6 +6,9 @@ target 'Project_Final' do
   use_frameworks!
 
   pod 'GoogleSignIn'
+  pod 'Alamofire'
+  pod 'Realm'
+  pod 'M13ProgressSuite'
   # Pods for Project_Final
 
 end
